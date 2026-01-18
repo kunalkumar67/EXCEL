@@ -1,10 +1,10 @@
 # EXCEL
 - **Data Analysis and Reporting.**
 - **Advanced Excel such as Pivot Tables, Filters, Sort, Graphs has been used in raw spreadsheet.**
-- **Large and complex excel spreadsheet files is uploadedhere for analysis.**
+- **Large and complex spreadsheet files uploaded after analysis.**
 
 ## REPORT FILE
-### Overview
+### Overview 
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/ba8400ce-0a5d-4405-bea7-2cc0b339d304" />
 
 ### Timeline
