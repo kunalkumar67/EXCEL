@@ -1,7 +1,7 @@
 #  MS EXCEL 
 - **Data Analysis and Reporting.**
 - **Advanced Excel such as Pivot Tables, Filters, Sort, Graphs has been used in raw spreadsheet.**
-- **Large and complex spreadsheet files uploaded after analysis.**
+- **Large and complex spreadsheet files uploaded after final analysis.**
 
 ## REPORT FILE
 ### Overview 
