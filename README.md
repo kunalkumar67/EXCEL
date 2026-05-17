@@ -18,7 +18,7 @@ This project demonstrates professional data analysis and reporting capabilities 
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/ba8400ce-0a5d-4405-bea7-2cc0b339d304" />
 
 ### Timeline
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/51cb4107-4cac-4933-8498-315d1f735c8a" />
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/51cb4107-4cac-4933-8498-315d1f735c8a" />
 
 ### Roles
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/c40f7490-153c-4bdd-bb52-d8619e474f2c" />
