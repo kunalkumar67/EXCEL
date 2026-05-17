@@ -1,10 +1,20 @@
-#  MS EXCEL SPREADSHEET
-- **Data Analysis and Reporting.**
-- **Advanced Excel such as Pivot Tables, Filters, Sort, Graphs has been used in raw spreadsheet.**
-- **Large and complex spreadsheet files uploaded after final analysis.**
+# MS Excel Spreadsheet - Data Analysis and Reporting
 
-## REPORT FILE
-### Overview 
+Welcome to the EXCEL repository, a comprehensive data analysis and reporting project built using advanced Microsoft Excel features.
+
+## Overview
+
+This project demonstrates professional data analysis and reporting capabilities using MS Excel. The spreadsheet includes:
+
+- **Advanced Excel Techniques**: Pivot Tables, Filters, Sort, and Dynamic Graphs
+- **Data-Driven Insights**: Complex analysis of project data
+- **Professional Reporting**: Large and complex spreadsheet files with comprehensive analysis results
+
+---
+
+## Report File
+
+### Overview
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/ba8400ce-0a5d-4405-bea7-2cc0b339d304" />
 
 ### Timeline
@@ -22,10 +32,21 @@
 ### Risks & Mitigations
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/a0e2c8bd-c6c5-48a5-bc3b-44808a2a97aa" />
 
+---
 
+## Features
 
+- **Comprehensive Analysis**: Multi-dimensional data analysis with pivot tables
+- **Visual Reporting**: Clear and professional charts and graphs
+- **Advanced Filtering**: Dynamic filters for easy data exploration
+- **Scalable Design**: Handles large and complex datasets efficiently
 
+## Getting Started
 
+1. Download the spreadsheet files from this repository
+2. Open with Microsoft Excel or compatible spreadsheet application
+3. Review the different report sections using the tabs and filters provided
 
+---
 
-
+*Last Updated: 2026-05-17*
